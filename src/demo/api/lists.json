@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "JavaScript高级",
+        "price": 159,
+        "discount": 1
+    },
+    {
+        "id": 2,
+        "name": "C++语言基础教程",
+        "price": 89,
+        "discount": 1
+    },
+    {
+        "id": 3,
+        "name": "CSharp高级",
+        "price": 249,
+        "discount": 0
+    },
+    {
+        "id": 4,
+        "name": "流畅的Python",
+        "price": 129,
+        "discount": 0
+    }
+]

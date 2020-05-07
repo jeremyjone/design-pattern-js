@@ -1,0 +1,28 @@
+{
+  "name": "design-mode",
+  "version": "1.0.0",
+  "description": "design mode demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echot \"Error: no test specified\" && exit 1",
+    "dev": "webpack-dev-server --config ./webpack.dev.config.js --mode development"
+  },
+  "author": "JeremyJone",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/polyfill": "^7.8.7",
+    "jquery": "^3.5.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.6",
+    "@babel/plugin-proposal-decorators": "^7.8.3",
+    "@babel/preset-env": "^7.9.6",
+    "babel-loader": "^8.1.0",
+    "html-webpack-plugin": "^4.3.0",
+    "javascript-state-machine": "^3.1.0",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  }
+}
